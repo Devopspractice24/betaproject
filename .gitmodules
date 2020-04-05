@@ -1,3 +1,6 @@
 [submodule "projCert"]
 	path = projCert
 	url = https://github.com/Devopspractice24/projCert.git
+[submodule "labs"]
+	path = labs
+	url = https://github.com/Devopspractice24/labs.git
